@@ -1,7 +1,0 @@
-test_id,user_id,emotion,intensity,preference,previous_interaction,recommendation_history,relevant_recommendations,accepted_recommendation
-T1,U1,fear,High,meditation,meditation,meditation,Practice a short meditation session|Try a guided breathing exercise,Practice a short meditation session
-T2,U2,fear,High,meditation,breathing,breathing,Try a guided breathing exercise|Practice a short meditation session,Try a guided breathing exercise
-T3,U3,sadness,Medium,writing,journaling,journaling,Write down your thoughts and feelings|Listen to calming music and relax,Write down your thoughts and feelings
-T4,U4,sadness,High,music,music,music,Listen to calming music and relax|Write down your thoughts and feelings,Listen to calming music and relax
-T5,U5,anger,Medium,physical activity,walking,walking,Take a short walk and get some fresh air,Take a short walk and get some fresh air
-T6,U6,joy,High,activity,exercise,exercise,Continue with a healthy physical activity,Continue with a healthy physical activity

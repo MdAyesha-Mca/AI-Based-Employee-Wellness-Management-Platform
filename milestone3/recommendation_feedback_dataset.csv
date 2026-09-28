@@ -1,9 +1,0 @@
-user_id,recommendation,viewed,accepted,rejected,rating,preference
-U1,Practice a short meditation session,Yes,Yes,No,5,meditation
-U1,Try a guided breathing exercise,Yes,Yes,No,4,meditation
-U1,Listen to calming music and relax,Yes,No,Yes,2,music
-U2,Practice a short meditation session,Yes,No,Yes,2,meditation
-U2,Try a guided breathing exercise,Yes,Yes,No,5,meditation
-U3,Take a short walk and get some fresh air,Yes,Yes,No,4,physical activity
-U3,Listen to calming music and relax,Yes,No,Yes,1,music
-U4,Write down your thoughts and feelings,Yes,Yes,No,5,writing
