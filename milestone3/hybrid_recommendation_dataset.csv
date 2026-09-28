@@ -1,0 +1,11 @@
+user_id,emotion,intensity,preference,previous_interaction,recommendation_history,recommendation
+U1,fear,High,meditation,breathing,breathing,Try a guided breathing exercise
+U1,fear,Medium,meditation,meditation,meditation,Practice a short meditation session
+U2,sadness,High,music,music,music,Listen to calming music and relax
+U2,anger,High,physical activity,walking,walking,Take a short walk and get some fresh air
+U3,joy,High,activity,exercise,exercise,Continue with a healthy physical activity
+U3,sadness,Medium,writing,journaling,journaling,Write down your thoughts and feelings
+U4,fear,Low,meditation,breathing,breathing,Practice a short meditation session
+U4,anger,Medium,physical activity,walking,walking,Take a short walk and get some fresh air
+U5,joy,Medium,activity,exercise,exercise,Continue with a healthy physical activity
+U5,sadness,Low,music,music,music,Listen to calming music and relax

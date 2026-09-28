@@ -1,0 +1,11 @@
+emotion,intensity,preference,previous_interaction,recommendation_history,trend,recommendation
+fear,High,meditation,breathing,breathing,increasing,Try a guided breathing exercise
+fear,Medium,meditation,meditation,meditation,stable,Practice a short meditation session
+sadness,High,music,music,music,increasing,Listen to calming music and relax
+anger,High,physical activity,walking,walking,increasing,Take a short walk and get some fresh air
+joy,High,activity,exercise,exercise,stable,Continue with a healthy physical activity
+sadness,Medium,writing,journaling,journaling,stable,Write down your thoughts and feelings
+fear,Low,meditation,breathing,breathing,decreasing,Practice a short meditation session
+anger,Medium,physical activity,walking,walking,stable,Take a short walk and get some fresh air
+joy,Medium,activity,exercise,exercise,stable,Continue with a healthy physical activity
+sadness,Low,music,music,music,decreasing,Listen to calming music and relax

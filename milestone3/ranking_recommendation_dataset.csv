@@ -1,0 +1,7 @@
+recommendation,emotion,intensity,preference,content,previous_interaction,recommendation_history
+Try a guided breathing exercise,fear,High,meditation,breathing,breathing,breathing
+Practice a short meditation session,fear,Medium,meditation,meditation,meditation,meditation
+Listen to calming music and relax,sadness,High,music,music,music,music
+Take a short walk and get some fresh air,anger,Medium,physical activity,walking,walking,walking
+Continue with a healthy physical activity,joy,High,activity,exercise,exercise,exercise
+Write down your thoughts and feelings,sadness,Medium,writing,journaling,journaling,journaling
